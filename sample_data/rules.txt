@@ -1,0 +1,149 @@
+===== CONTRACT TYPE: Employment Agreement =====
+CONTRACT_TYPES: Employment Contract, Employment Agreement, Job Contract, Work Agreement
+RISK_LEVEL: Medium
+DESCRIPTION: Rules for employment-related contracts between employers and employees
+
+COMPLIANCE_RULES:
+- Must include clear job description and responsibilities
+- Salary and compensation details must be explicitly stated
+- Working hours and overtime policies must be defined
+- Termination conditions and notice periods must be specified
+- Confidentiality and non-disclosure clauses should be included
+- Benefits and leave policies must be outlined
+
+VALIDATION_CRITERIA:
+- Verify all mandatory employment law requirements are met
+- Check for compliance with local labor regulations
+- Ensure non-discriminatory language throughout
+- Confirm proper termination procedures are documented
+
+COMMON_VIOLATIONS:
+- Missing overtime compensation details
+- Inadequate termination notice periods
+- Unclear job scope and responsibilities
+- Non-compliance with minimum wage requirements
+
+REGULATORY_REFERENCES:
+- Fair Labor Standards Act (FLSA)
+- Equal Employment Opportunity Commission (EEOC) guidelines
+- State-specific employment laws
+
+===== CONTRACT TYPE: Non-Disclosure Agreement =====
+CONTRACT_TYPES: NDA, Non-Disclosure Agreement, Confidentiality Agreement, Secrecy Agreement
+RISK_LEVEL: High
+DESCRIPTION: Rules for protecting confidential information between parties
+
+COMPLIANCE_RULES:
+- Definition of confidential information must be comprehensive
+- Duration of confidentiality obligations must be specified
+- Permitted uses and exceptions must be clearly outlined
+- Return or destruction of confidential information must be addressed
+- Remedies for breach must be defined
+- Governing law and jurisdiction must be specified
+
+VALIDATION_CRITERIA:
+- Ensure definition of confidential information is not overly broad
+- Verify time limitations are reasonable and enforceable
+- Check for proper exception clauses (publicly available information, etc.)
+- Confirm mutual obligations if bilateral agreement
+
+COMMON_VIOLATIONS:
+- Overly broad definition of confidential information
+- Unreasonable time duration for confidentiality
+- Missing return/destruction clauses
+- Inadequate breach remedies
+
+REGULATORY_REFERENCES:
+- Trade Secrets Act
+- Uniform Trade Secrets Act (UTSA)
+- State-specific confidentiality laws
+
+===== CONTRACT TYPE: Service Agreement =====
+CONTRACT_TYPES: Service Contract, Service Agreement, Professional Services Agreement, Consulting Agreement
+RISK_LEVEL: Medium
+DESCRIPTION: Rules for service provision contracts between service providers and clients
+
+COMPLIANCE_RULES:
+- Scope of services must be clearly defined
+- Payment terms and schedule must be specified
+- Performance standards and deliverables must be outlined
+- Intellectual property ownership must be addressed
+- Limitation of liability clauses should be included
+- Termination and cancellation procedures must be defined
+
+VALIDATION_CRITERIA:
+- Verify service scope is specific and measurable
+- Check payment terms are fair and legally compliant
+- Ensure IP ownership is clearly allocated
+- Confirm liability limitations are reasonable
+
+COMMON_VIOLATIONS:
+- Vague service descriptions
+- Unclear payment schedules
+- Missing IP ownership clauses
+- Inadequate performance metrics
+
+REGULATORY_REFERENCES:
+- Uniform Commercial Code (UCC)
+- Consumer protection laws
+- Professional licensing requirements
+
+===== CONTRACT TYPE: Lease Agreement =====
+CONTRACT_TYPES: Lease Agreement, Rental Agreement, Property Lease, Tenancy Agreement
+RISK_LEVEL: Low
+DESCRIPTION: Rules for property rental agreements between landlords and tenants
+
+COMPLIANCE_RULES:
+- Property description and address must be complete
+- Rent amount and payment schedule must be specified
+- Lease term and renewal options must be defined
+- Security deposit terms must be outlined
+- Maintenance and repair responsibilities must be allocated
+- Permitted use and occupancy limits must be stated
+
+VALIDATION_CRITERIA:
+- Verify compliance with local housing laws
+- Check security deposit limits and return procedures
+- Ensure fair housing compliance
+- Confirm proper notice requirements for termination
+
+COMMON_VIOLATIONS:
+- Excessive security deposit amounts
+- Unclear maintenance responsibilities
+- Missing required disclosures
+- Inadequate termination notice periods
+
+REGULATORY_REFERENCES:
+- Fair Housing Act
+- State landlord-tenant laws
+- Local housing ordinances
+
+===== CONTRACT TYPE: Purchase Agreement =====
+CONTRACT_TYPES: Purchase Agreement, Sales Contract, Buy-Sell Agreement, Procurement Contract
+RISK_LEVEL: Medium
+DESCRIPTION: Rules for agreements involving the sale and purchase of goods or services
+
+COMPLIANCE_RULES:
+- Detailed description of goods/services must be provided
+- Price and payment terms must be clearly stated
+- Delivery terms and timelines must be specified
+- Warranty and return policies must be outlined
+- Risk of loss allocation must be defined
+- Dispute resolution procedures must be included
+
+VALIDATION_CRITERIA:
+- Verify goods/services description is accurate and complete
+- Check payment terms comply with commercial standards
+- Ensure delivery terms are realistic and enforceable
+- Confirm warranty terms are reasonable
+
+COMMON_VIOLATIONS:
+- Inadequate product/service descriptions
+- Unclear delivery responsibilities
+- Missing warranty information
+- Insufficient dispute resolution mechanisms
+
+REGULATORY_REFERENCES:
+- Uniform Commercial Code (UCC)
+- Consumer protection statutes
+- Industry-specific regulations

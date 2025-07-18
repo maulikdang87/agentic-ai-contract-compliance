@@ -1,0 +1,26 @@
+[project]
+name = "compliance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "chromadb>=1.0.15",
+    "langchain",
+    "langchain-community>=0.3.27",
+    "langchain-google-genai",
+    "langchain-openai>=0.3.28",
+    "langgraph>=0.5.3",
+    "nest-asyncio>=1.6.0",
+    "openai>=1.96.1",
+    "pypdf2>=3.0.1",
+    "python-docx>=1.2.0",
+    "python-dotenv",
+    "streamlit>=1.47.0",
+    "tiktoken>=0.9.0",
+    "utils>=1.0.2",
+]
+
+[tool.uv.workspace]
+members = ["modules", "modules/agent", "modules/tools", "modules/agents", "modules/utils"]
