@@ -6,6 +6,11 @@ This project demonstrates the design and implementation of an agentic AI platfor
 
 ## System Architecture
 
+![System Architecture Graph](graphs/contract_analysis_graph_20250718_173317.png)
+
+
+
+
 ### Core Components
 
 - **Orchestrator Agent**: A LangChain-driven orchestration layer (LangGraph) that sequences document processing, contract type detection, compliance rule retrieval, automated analysis, and chat-based interaction.
